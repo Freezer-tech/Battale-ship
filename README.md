@@ -14,3 +14,11 @@ pip install -r requirement.txt
 ## Usage
 
 python battaglia navale2.py
+
+## Example
+
+![Example 1](example_1.png)
+![Example 2](example_2.png)
+
+## Contributing
+Contributions are welcome! Feel free to submit a pull request.
